@@ -17,7 +17,7 @@ You should first replace all of the variables within the package.json.
   
   ## Adding Code
   
-  You will want to add files to the ./src folder.  Export all of the functions and Classes you want avalible to your library users from the ./src/index.ts file.
+  You will want to add files to the [./src]((https://github.com/amitch6097/npm-typescript-library-jest-template/tree/master/src) folder.  Export all of the functions and Classes you want avalible to your library users from the [./src/index.ts](https://github.com/amitch6097/npm-typescript-library-jest-template/tree/master/src/index.ts) file.
   ### To build your package run
   ```
   npm run build
@@ -26,7 +26,7 @@ You should first replace all of the variables within the package.json.
   
   ## Testing 
   
-  Add tests to [./__tests__]() folder.  The testing platform is Jest.  You can find out more about Jest [here](https://jestjs.io/)!
+  Add tests to [./__tests__](https://github.com/amitch6097/npm-typescript-library-jest-template/tree/master/__tests__) folder.  The testing platform is Jest.  You can find out more about Jest [here](https://jestjs.io/)!
   ### To build your package run
   ```
   npm run test
