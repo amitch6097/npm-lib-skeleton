@@ -22,11 +22,11 @@ You should first replace all of the variables within the package.json.
   ```
   npm run build
   ````
-  This will build a common js version of your library and a UMD version
+  This will build a common js version of your library and a UMD version.
   
   ## Testing 
   
-  Add tests to ./__tests folder.  The testing platform is Jest.  You can find out more about Jest [here](https://jestjs.io/)
+  Add tests to ./__tests__ folder.  The testing platform is Jest.  You can find out more about Jest [here](https://jestjs.io/)!
   ### To build your package run
   ```
   npm run test
