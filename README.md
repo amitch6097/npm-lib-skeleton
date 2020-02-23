@@ -15,6 +15,13 @@ You should first replace all of the variables within the package.json.
 ### [READ_ME_URL] _the link to your repos readme.md or docs_
   Example: [https://github.com/amitch6097/npm-typescript-library-jest-template#readme](https://github.com/amitch6097/npm-typescript-library-jest-template#readme)
   
+
+  ### Finally run 
+  ```
+  npm install
+  ```
+  to install all dependencies.
+  
   ## Adding Code
   
   You will want to add files to the [./src](https://github.com/amitch6097/npm-typescript-library-jest-template/tree/master/src) folder.  Export all of the functions and Classes you want avalible to your library users from the [./src/index.ts](https://github.com/amitch6097/npm-typescript-library-jest-template/tree/master/src/index.ts) file.
