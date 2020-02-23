@@ -1,8 +1,8 @@
 {
-  "name": [LIB_NAME],
-  "author": [YOUR_NAME],
+  "name": "[LIB_NAME]",
+  "author": "[YOUR_NAME]",
   "version": "0.0.0",
-  "description": [DESCRIPTION],
+  "description": "[DESCRIPTION]",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -19,12 +19,11 @@
     "url": "git+[REPO_URL]"
   },
   "bugs": {
-    "url": [ISSUES_URL]
+    "url": "[ISSUES_URL]"
   },
   "files": ["dist"],
   "browserslist": [">0.2%", "not dead"],
-  "homepage": [READ_ME_URL],
-  "keywords": ["simple", "object", "state", "typescript"],
+  "homepage": "[READ_ME_URL]",
   "declaration": true,
   "devDependencies": {
     "@types/jest": "^25.1.1",
