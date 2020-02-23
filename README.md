@@ -26,7 +26,7 @@ You should first replace all of the variables within the package.json.
   
   ## Testing 
   
-  Add tests to ./__tests__ folder.  The testing platform is Jest.  You can find out more about Jest [here](https://jestjs.io/)!
+  Add tests to [./__tests__]() folder.  The testing platform is Jest.  You can find out more about Jest [here](https://jestjs.io/)!
   ### To build your package run
   ```
   npm run test
