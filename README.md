@@ -43,7 +43,7 @@ You should first replace all of the variables within the package.json.
   
   Before publishing you should update the version in the package.json.  Following that you can run 
   ```
-  npm run publish
+  npm publish
   ```
   to publish your package to npm.
   
